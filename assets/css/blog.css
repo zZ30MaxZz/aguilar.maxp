@@ -176,3 +176,10 @@ main {
     font-size: 1rem;
   }
 }
+
+.img-logo{
+  display: block;
+  margin: auto;
+  margin-bottom: 15px;
+  min-width: 14em;
+}

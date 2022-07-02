@@ -1,18 +1,156 @@
 name: Max Paul Aguilar Mamani
-dp: https://avatars.githubusercontent.com/u/13616585?v=4
+# dp: https://avatars.githubusercontent.com/u/13616585?v=4
 description: "
-  <p>
+<section id='img-wrapper'>
+    <img src='https://avatars.githubusercontent.com/u/13616585?v=4' alt='' class='img-logo'>
+</section>
+<p style='text-align: justify; text-justify: inter-word;'>
     Experienced software developer with a passion for developing innovative programs that expedite the 
     efficiency and effectiveness of organizational success. Well-versed in technology and writing code to 
     create systems that are reliable and user-friendly. Skilled developer who has the proven ability to build 
     software programs and effectively track changes. Confident communicator, strategic thinker, and 
     innovative creator to develop software that is customized to meet a company’s organizational needs, 
     highlight their core competencies, and further their success.
-  </p>
-  <br/>
-  <p>
-    You should follow him on <a href='https://github.com/zZ30MaxZz' target='_blank'>Github</a>
-  </P>
+</p>
+<br/>
+<p>
+  You should follow him on <a href='https://github.com/zZ30MaxZz' target='_blank'>Github</a>
+</p>
+<p>
+  Click to download -> <a href='/assets/docs/CV Max Aguilar-English.pdf' target='_blank'>CV</a>
+</p>
+<br/>
+<br/>
+<section class='experiance'>
+    <h2 class='title'>Experience</h2>
+    <div class='experience-item'>
+        <div class='role'>
+            FullStack Software Engineer
+        </div>
+        <div class='company'>
+            Universidad del Pacífico
+            <span class='time'>2021-Present</span>
+        </div>
+        <div class='details'>
+            <ul>
+                <li>Perform web application programming based on specifications provided by users.</li>
+                <li>Support in the execution of improvements in the use of functionalities of the user web applications.</li>
+                <li>Support in carrying out functional performance tests and interoperability of systems and applications in general.</li>
+            </ul>
+        </div>
+        <p class='technologies'>Technologies Used: MSSQL, C#, aspx.net, TFS, Aranda, Smowl, Ellucian.
+        </p>
+    </div>
+    <div class='experience-item'>
+        <div class='role'>
+            Solution Developer
+        </div>
+        <div class='company'>
+            Business Analytics S.A.C. 
+            <span class='time'>2020-2021</span>
+        </div>
+        <div class='details'>
+            <ul>
+                <li>Development of a web system for the management of transport routes.</li>
+                <li>Management and maintenance of a system that allows assigning tasks, planning routes and control the equipment 
+                    you have in the field (sales, collection, distribution), via internet and in real time.
+                </li>
+                <li>Implementation of systems that allows the management of advertising panels.</li>
+            </ul>
+        </div>
+        <p class='technologies'>Technologies Used: C# ASP.net MVC 5, ASP.net Core, MSSQLS, PostgreSQL, Entity Framework, TFS, SCRUM, Dapper, Qgis, 
+            SOAP, POSTMAN, Smartgit, VS Code, JS, JQuery, HTML5, Angular JS, CSS, Boostrap 3-4, MS Visio.
+        </p>
+    </div>
+    <div class='experience-item'>
+        <div class='role'>
+            Software Developer 
+        </div>
+        <div class='company'>
+            Noatum Logistic INC S.R.L.
+            <span class='time'>2019-2020</span>
+        </div>
+        <div class='details'>
+            <ul>
+                <li>Improvement of the user interface in responsive mode of all the existing systems.</li>
+                <li>Maintaining master tables for the management of access by permissions to the systems by users.</li>
+            </ul>
+        </div>
+        <p class='technologies'>Technologies Used: C# .Net Framework, CSLA.NET, DevExpress, Git, HTML5, CSS3, Sql Server, SOLID
+        </p>
+    </div>
+    <div class='experience-item'>
+        <div class='role'>
+            Software Developer
+        </div>
+        <div class='company'>
+            Gardinalli Quiropraxia
+            <span class='time'>2020-2021</span>
+        </div>
+        <div class='details'>
+            <ul>
+                <li>Improvements in the synchronization of the patient calendar in the doctor and assistant calendar.</li>
+                <li>Implementation of digital clinical history report of patientssystems.</li>
+            </ul>
+        </div>
+        <p class='technologies'>Technologies Used: C# .Net Framework, Sql Server, EF, Git, HTML5, CSS3, JS
+        </p>
+    </div>
+    <div class='experience-item'>
+        <div class='role'>
+            Software Developer
+        </div>
+        <div class='company'>
+            Spring Valley Software
+            <span class='time'>2017-2018</span>
+        </div>
+        <div class='details'>
+            <ul>
+                <li>Implementation of payment gateway through PayPal libraries for the purchase of Cryptocurrency Synapsecoin.</li>
+                <li>Development of a web portal for job advertisements and job bank, integrating own and external advertisements.</li>
+            </ul>
+        </div>
+        <p class='technologies'>Technologies Used: ASP, C# .NET, MVC, Web Api REST, ADO.Net, EF, MSSQLS, TDD, DDD, SCRUM, SOLID Principles, Design 
+            Patterns, DevOps Culture, GitHub, Gitlab, Bitbucket, Azure., HTML5, CSS3, JS, jQuery, Bootstrap, Blockchain, PayPal API.
+        </p>
+    </div>
+    <div class='experience-item'>
+        <div class='role'>
+            Software Developer
+        </div>
+        <div class='company'>
+            Innova Consultores
+            <span class='time'>2016</span>
+        </div>
+        <div class='details'>
+            <ul>
+                <li>Analysis, development and implementation of a web portal for the management of small and medium-sized 
+                    companies, optimizing control over sales.</li>
+            </ul>
+        </div>
+        <p class='technologies'>Technologies Used: ASP, C# .NET, MVC, ADO.Net, Entity Framework, MSSQLS, GIT HTML5, CSS, Javascript, JQuery, Bootstrap.
+        </p>
+    </div>
+</section>
+<section class='experiance'>
+    <h2 class='title'>SKILLS</h2>
+    <div class='experience-item'>
+        <div class='details'>
+            <p><b>Programming Languages:</b> C# (Advanced), MSQLS(Advanced), Javascript (Advanced).</p>
+            <p>
+                <b>Frameworks and Tools:</b>
+                Advanced: Net Framework, SOLID, POO, MVC, REST, TDD, Git, Entity Framework/Core, Dapper, Angular. 
+                Intermediate: PostgreSql, MongoDB, Qgis, DevExpress, CSLA, ELLUCIAN.
+            </p>
+            <p><b>Languages:</b> English (Intermediate); Spanish (Native)</p>
+        </div>
+        </p>
+    </div>
+</section>
+<br/>
+<p>
+  Click to download -> <a href='/assets/docs/CV Max Aguilar-English.pdf' target='_blank'>CV</a>
+</p>
 "
 email: aguilar.maxp@gmail.com
 contact:
