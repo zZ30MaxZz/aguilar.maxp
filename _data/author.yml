@@ -136,7 +136,7 @@ description: "
     <h2 class='title'>SKILLS</h2>
     <div class='experience-item'>
         <div class='details'>
-            <p><b>Programming Languages:</b> C# (Advanced), MSQLS(Advanced), Javascript (Advanced).</p>
+            <p><b>Programming Languages:</b> C# (Advanced), MSSQL(Advanced), Javascript (Advanced).</p>
             <p>
                 <b>Frameworks and Tools:</b>
                 Advanced: Net Framework, SOLID, POO, MVC, REST, TDD, Git, Entity Framework/Core, Dapper, Angular. 
