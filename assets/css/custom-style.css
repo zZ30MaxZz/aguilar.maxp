@@ -27,7 +27,6 @@
 .experiance .experience-item .role {
     font-size: 16px;
     font-weight: 700;
-    margin-bottom: 15px !important;
     color: var(--fg-color)
 }
 
@@ -53,6 +52,9 @@
     font-size: 14px
 }
 
+.experience-item {
+    margin-bottom: 20px;
+}
 
 .publications .title {
     color: var(--fg-color);
@@ -224,6 +226,12 @@
     font-size: 16px;
     font-weight: 700;
     color: var(--fg-color)
+}
+
+.role{
+    border-left: 4px solid #a9abb3;
+    padding-left: 5px;
+    margin-bottom: 5px;
 }
 
 .volunteering .volunteering-item .organization .time {
