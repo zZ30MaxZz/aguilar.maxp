@@ -56,6 +56,15 @@
     margin-bottom: 20px;
 }
 
+.delegated-corporation{
+    font-weight: bold;
+}
+
+.delegated-job{
+    font-weight: bold;
+    font-style: italic;
+}
+
 .publications .title {
     color: var(--fg-color);
     font-size: 18px;
