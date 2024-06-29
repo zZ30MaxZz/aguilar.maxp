@@ -1,4 +1,5 @@
-_site
+_site/
+!chatgpt/
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
