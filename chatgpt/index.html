@@ -42,7 +42,7 @@
             $loading?.parentNode?.removeChild($loading)
             $button.removeAttribute('disabled');
 
-            voiceBuffer = '¡Hola! Soy un ChatGPT que se ejecuta completamente en tu navegador. ¿En qué puedo ayudarte hoy?';
+            voiceBuffer = '¡Hola! Soy un ChatGPT, ¿Cómo puedo ayudarte?';
             addMessage(voiceBuffer, 'bot');
             
             processVoiceBuffer();
@@ -128,7 +128,7 @@
         isSpeaking = true;
         const utterance = new SpeechSynthesisUtterance(voiceBuffer);
         const voices = speechSynthesis.getVoices();
-        utterance.voice = voices[3];
+        utterance.voice = voices[1];
 
         utterance.onend = () => {
           isSpeaking = false;
@@ -149,7 +149,8 @@
         <img src="logo.jpeg" alt="">
         <h2>Indivisa Manent</h2>
       </div>
-      <main>
+      <span class="spanInfo">Eureka 2024 - 4to</span>
+      <main> 
         <ul>
           <li class="loading">
             <span aria-busy="true">Cargando...</span>
@@ -161,6 +162,10 @@
         <button class="outline" disabled>Enviar</button>
       </form>
       <small>&nbsp;</small>
+      <span class="spanInfo"><a href="https://zz30maxzz.github.io/chatgpt/" target="_blank">Versión con Internet</a></span>
+      <span class="spanInfo"><a href="/chatgpt/v2">Versión 2.0</a></span>
+      <span class="spanInfo">Modelo: Qwen2-1.5B-Instruct-q4f32_1-MLC</span>
+      <span class="spanInfo">Más modelos: <a href="https://huggingface.co/models">link</a></span>
     </div>
   </div>
 
